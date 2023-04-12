@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Генератор Случайностей</string>
+    <string name="button_create">Создать</string>
+    <string name="empty_alert">Заполните пустые поля</string>
+    <string name="add">добавить</string>
+    <string name="generate">Сгенерировать</string>
+    <string name="throw_coin">Подкинуть</string>
+    <string name="from">От</string>
+    <string name="to">До</string>
+    <string name="howmany">Сколько</string>
+    <string name="entertext">Введите текст</string>
+    <string name="tab_text_1">Числа</string>
+    <string name="tab_text_2">Список</string>
+    <string name="tab_text_3">Игральные кости</string>
+    <string name="tab_text_4">Монетка</string>
+    <string name="tab_text_5">Шар восьмерка</string>
+    <string name="ball1">Бесспорно</string>
+    <string name="ball2">Предрешено</string>
+    <string name="ball3">Никаких сомнений</string>
+    <string name="ball4">Определённо да</string>
+    <string name="ball5">Можешь быть уверен в этом</string>
+    <string name="ball6">Мне кажется — «да»</string>
+    <string name="ball7">Вероятнее всего</string>
+    <string name="ball8">Хорошие перспективы</string>
+    <string name="ball9">Знаки говорят — «да»</string>
+    <string name="ball10">Да</string>
+    <string name="ball11">Пока не ясно, попробуй снова</string>
+    <string name="ball12">Спроси позже</string>
+    <string name="ball13">Лучше не рассказывать</string>
+    <string name="ball14">Сейчас нельзя предсказать</string>
+    <string name="ball15">Сконцентрируйся и спроси опять</string>
+    <string name="ball16">Даже не думай</string>
+    <string name="ball17">Мой ответ — «нет»</string>
+    <string name="ball18">По моим данным — «нет»</string>
+    <string name="ball19">Перспективы не очень хорошие</string>
+    <string name="ball20">Весьма сомнительно</string>
+
+
+</resources>

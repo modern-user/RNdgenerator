@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RNDgenerator</string>
+    <string name="button_create">Create</string>
+    <string name="empty_alert">fill empty fields</string>
+    <string name="add">add</string>
+    <string name="generate">generate</string>
+    <string name="throw_coin">toss</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="howmany">How many</string>
+    <string name="entertext">Enter text</string>
+    <string name="tab_text_1">Number</string>
+    <string name="tab_text_2">List</string>
+    <string name="tab_text_3">Dices</string>
+    <string name="tab_text_4">Coin</string>
+    <string name="tab_text_5">eight ball</string>
+    <string name="ball1">It is certain</string>
+    <string name="ball2">It is decidedly so</string>
+    <string name="ball3">Without a doubt</string>
+    <string name="ball4">Yes — definitely</string>
+    <string name="ball5">You may rely on it</string>
+    <string name="ball6">As I see it, yes</string>
+    <string name="ball7">Most likely</string>
+    <string name="ball8">Outlook good</string>
+    <string name="ball9">Signs point to yes</string>
+    <string name="ball10">Yes</string>
+    <string name="ball11">Reply hazy, try again</string>
+    <string name="ball12"> Ask again later</string>
+    <string name="ball13">Better not tell you now</string>
+    <string name="ball14">Cannot predict now</string>
+    <string name="ball15">Concentrate and ask again</string>
+    <string name="ball16">Don’t count on it </string>
+    <string name="ball17">My reply is no</string>
+    <string name="ball18">My sources say no</string>
+    <string name="ball19">Outlook not so good </string>
+    <string name="ball20">Very doubtful</string>
+
+
+</resources>
