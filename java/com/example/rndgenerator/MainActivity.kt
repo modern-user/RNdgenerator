@@ -15,10 +15,7 @@ import com.example.rndgenerator.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
-
-  //  var toolbar: Toolbar = findViewById(R.id.tabs)
-  // private NumberFragment number fragment
-
+    
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -30,8 +27,6 @@ class MainActivity : AppCompatActivity() {
         viewPager.adapter = sectionsPagerAdapter
         val tabs: TabLayout = binding.tabs
         tabs.setupWithViewPager(viewPager)
-
-        //setSupportActionBar(findViewById(R.id.tabs))
 
     }
 }
